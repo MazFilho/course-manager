@@ -1,6 +1,7 @@
 # CourseManager
 
 Este projeto foi gerado com Angular CLI (https://github.com/angular/angular-cli) versão 11.2.2.
+Este projeto consiste em um sistema de gerenciamento de cursos, com a possibilidade de filtrar, editar e deletar cursos (estaticamente).
 
 ## Motivação do projeto
 
