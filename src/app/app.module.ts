@@ -6,7 +6,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { Error404Component } from './error-404/error-404.component';
 import { CourseModule } from './courses/course.module';
-import { CoreModule } from './core/component/nav-bar/core.module';
+import { CoreModule } from './core/core.module';
 
 @NgModule({
   declarations: [
