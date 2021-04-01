@@ -22,6 +22,9 @@ import { CourseListComponent } from "./course-list.component";
                 path: 'courses', component: CourseListComponent
               },
               {
+              path: '', redirectTo: 'courses', pathMatch: 'full'
+              },
+              {
                 path: 'courses/info/:id', component: CourseInfoComponent
               }   
             ])
